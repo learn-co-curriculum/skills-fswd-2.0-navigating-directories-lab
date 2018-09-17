@@ -27,70 +27,70 @@ describe('index.js', () => {
 });
 
 describe('index.html', () => {
-	it('1) contains an p nested inside a div ', () => {
+	it('contains an p nested inside a div ', () => {
 		expect(
 			document.querySelector('div').outerHTML,
 			'No p tag was found inside a div'
 		).to.match(/<p>[\s\S]*?<\/p>/);
 	});
 
-	it('2) contains an p nested inside a div ', () => {
+	it('contains an p nested inside a div ', () => {
 		expect(
 			document.querySelector('div').outerHTML,
 			'No p tag was found inside a div'
 		).to.match(/<p>[\s\S]*?<\/p>/);
 	});
 
-	it('3) contains an p nested inside a div ', () => {
+	it('contains an p nested inside a div ', () => {
 		expect(
 			document.querySelector('div').outerHTML,
 			'No p tag was found inside a div'
 		).to.match(/<p>[\s\S]*?<\/p>/);
 	});
 
-	it('4) contains an p nested inside a div ', () => {
+	it('contains an p nested inside a div ', () => {
 		expect(
 			document.querySelector('div').outerHTML,
 			'No p tag was found inside a div'
 		).to.match(/<p>[\s\S]*?<\/p>/);
 	});
 
-	it('5) contains an p nested inside a div ', () => {
+	it('contains an p nested inside a div ', () => {
 		expect(
 			document.querySelector('div').outerHTML,
 			'No p tag was found inside a div'
 		).to.match(/<p>[\s\S]*?<\/p>/);
 	});
 
-	it('6) contains an p nested inside a div ', () => {
+	it('contains an p nested inside a div ', () => {
 		expect(
 			document.querySelector('div').outerHTML,
 			'No p tag was found inside a div'
 		).to.match(/<p>[\s\S]*?<\/p>/);
 	});
 
-	it('7) contains an p nested inside a div ', () => {
+	it('contains an p nested inside a div ', () => {
 		expect(
 			document.querySelector('div').outerHTML,
 			'No p tag was found inside a div'
 		).to.match(/<p>[\s\S]*?<\/p>/);
 	});
 
-	it('8) contains an p nested inside a div ', () => {
+	it('contains an p nested inside a div ', () => {
 		expect(
 			document.querySelector('div').outerHTML,
 			'No p tag was found inside a div'
 		).to.match(/<p>[\s\S]*?<\/p>/);
 	});
 
-	it('9) contains an p nested inside a div ', () => {
+	it('contains an p nested inside a div ', () => {
 		expect(
 			document.querySelector('div').outerHTML,
 			'No p tag was found inside a div'
 		).to.match(/<p>[\s\S]*?<\/p>/);
 	});
 
-	it('10) contains an p nested inside a div ', () => {
+	it('1contains an p nested inside a div ', () => {
 		expect(
 			document.querySelector('div').outerHTML,
 			'No p tag was found inside a div'
