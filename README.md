@@ -9,26 +9,30 @@
 Work through the challenges below one at a time. Run `learn` to verify you've
 written a correct solution for each.
 
-#### Verify Problem 1
+#### 1) Nest a `p` tag inside a `div`
 
-#### Verify Problem 2
+#### 2) Nest a `p` tag inside a `div`
 
-#### Verify Problem 3
+#### 3) Nest a `p` tag inside a `div`
 
-#### Verify Problem 4
+#### 4) Nest a `p` tag inside a `div`
 
-#### Verify Problem 5
+#### 5) Nest a `p` tag inside a `div`
 
-#### Verify Problem 6
+#### 6) Nest a `p` tag inside a `div`
 
-#### Verify Problem 7
+#### 7) Nest a `p` tag inside a `div`
 
-#### Verify Problem 8
+#### 8) Nest a `p` tag inside a `div`
 
-#### Verify Problem 9
+#### 9) Nest a `p` tag inside a `div`
 
-#### Verify Problem 10
+#### 10) Nest a `p` tag inside a `div`
 
 ## Conclusion
 
+Summarize the concept, any important syntax, rules or exceptions that were practiced in this lab.
+
 ## References
+
+-[Official documentation]:

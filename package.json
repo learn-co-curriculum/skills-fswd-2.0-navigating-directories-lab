@@ -4,7 +4,7 @@
   "description": "A JavaScript lab for generating secure passwords",
   "main": "index.js",
   "scripts": {
-    "test": "mocha -R mocha-multi --reporter-options nyan=-,json=.results.json"
+    "test": "mocha -R mocha-multi --reporter-options json=.results.json,list=-"
   },
   "keywords": [
     "JavaScript",
