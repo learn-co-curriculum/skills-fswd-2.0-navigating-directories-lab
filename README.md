@@ -9,25 +9,16 @@
 Work through the challenges below one at a time. Run `learn` to verify you've
 written a correct solution for each.
 
-#### 1) Nest a `p` tag inside a `div`
+#### 1) Add an `href` attribute to an `a` tag
 
-#### 2) Nest a `p` tag inside a `div`
+#### 2) Add an `id` attribute to an h1 tag
 
-#### 3) Nest a `p` tag inside a `div`
+#### 3) Add a `class` attribute to every `li` tag
 
-#### 4) Nest a `p` tag inside a `div`
+#### 4) Add a `class` and `href` attribute to every `a` tag
 
-#### 5) Nest a `p` tag inside a `div`
+#### 5) etc....
 
-#### 6) Nest a `p` tag inside a `div`
-
-#### 7) Nest a `p` tag inside a `div`
-
-#### 8) Nest a `p` tag inside a `div`
-
-#### 9) Nest a `p` tag inside a `div`
-
-#### 10) Nest a `p` tag inside a `div`
 
 ## Conclusion
 
@@ -35,4 +26,6 @@ Summarize the concept, any important syntax, rules or exceptions that were pract
 
 ## References
 
--[Official documentation]:
+-[Official documentation][use-footnote-style-links]
+
+[use-footnote-style-links]: #
