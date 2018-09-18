@@ -1,4 +1,4 @@
-# Title
+# Small Motion Lab Title
 
 ## Objective
 
@@ -18,7 +18,6 @@ written a correct solution for each.
 #### 4) Add a `class` and `href` attribute to every `a` tag
 
 #### 5) etc....
-
 
 ## Conclusion
 
